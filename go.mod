@@ -1,4 +1,4 @@
-module ttysrc
+module ttysrv
 
 go 1.16
 
